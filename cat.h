@@ -23,6 +23,3 @@ private:
 	int pawSize;
 };
 #endif
-© 2022 GitHub, Inc.
-Terms
-Privac
